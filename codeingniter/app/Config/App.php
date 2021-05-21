@@ -446,11 +446,5 @@ class App extends BaseConfig
 	 */
 	public $CSPEnabled = false;
 }
-'username'=>'root'
-	btc6
-	'password'=>",
-	123456AZ
-	'database'=>'login',
-	loginbtc6
 
     
