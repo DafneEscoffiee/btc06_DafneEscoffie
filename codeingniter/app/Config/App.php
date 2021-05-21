@@ -446,7 +446,11 @@ class App extends BaseConfig
 	 */
 	public $CSPEnabled = false;
 }
+'username'=>'root'
+	btc6
+	'password'=>",
+	123456AZ
+	'database'=>'login',
+	loginbtc6
 
-    public $baseURL = 'http://localhost:8080'; 
-    To
-    public $baseURL = 'http://localhost/crud/public'; 
+    
